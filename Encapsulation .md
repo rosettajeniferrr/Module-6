@@ -41,7 +41,7 @@ class Rectangle:
 
 rect = Rectangle(5, 3)
 rect.print_inside()
-``
+```
 ## Output
 <img width="291" height="193" alt="image" src="https://github.com/user-attachments/assets/b257c787-21ea-4fbb-a078-19cc327d2bba" />
 
